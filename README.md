@@ -35,7 +35,8 @@ This is a lightweight chatbot built using Streamlit and a free Hugging Face lang
   - streamlit run medibot.py
 
 ## 📸 Screenshot
-    ![chatbot screenshot](chatbot screenshot.png)
+    ![chatbot screenshot](https://github.com/user-attachments/assets/64720f01-96d0-48cd-808c-881fe1935a52)
+
 
 
 
